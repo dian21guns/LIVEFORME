@@ -1,1 +1,7 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 1
+https://ecloud.welive.sbs:8089/hls/k5jmFDDQOOBF/index.m3u8?st=K6Vikst9gryFdO9G81MehQ&e=1694889026
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports2.png" group-title="Sports", (ONLINE) LIVE 2
+https://n4.aliflailaaliflaila.com:999/hls/hdchnl7.m3u8?md5=J76_XJppAe8P7F5rEVDlHw&expires=1694885030
