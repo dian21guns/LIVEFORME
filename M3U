@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 1
-https://a37.azplay.me/hls/streama213039/index.m3u8?cst=48a201f73592b81b102a9607f29ccd8a
+https://a37.azplay.me/hls/streama213658/index.m3u8?cst=5f28c7ec4ad979d46ee6297bb15b6f48
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 2
 https://ecloud.welive.sbs:8089/hls/4vTLtWWosObV/index.m3u8?st=xWPjBWsI3rDfmaDJo_pg4Q&e=1694927464
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 3
-https://a42.azplay.me/hls/streama213658/index.m3u8?cst=7bae73b2c9c3f47113e66fc271a35fdf
+https://vladrums.com/hls/003.m3u8?md5=dElb0ZAJ0VpYX8XACLa_eQ&expires=1694927996
 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 4
