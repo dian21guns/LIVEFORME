@@ -1,13 +1,18 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 1
-https://ecloud.welive.sbs:8089/hls/k5jmFDDQOOBF/index.m3u8?st=K6Vikst9gryFdO9G81MehQ&e=1694889026
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 4
-https://ecloud.welive.sbs:8089/hls/r3nYgaCEgu2E/index.m3u8?st=ncGkN6zxJ8o3bLYDTl3WtA&e=1694893750
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 3
-https://a46.azplay.me/hls/streama213190/index.m3u8?cst=995d9e111bf1bae26b6d60efb324a241
+https://a37.azplay.me/hls/streama213039/index.m3u8?cst=48a201f73592b81b102a9607f29ccd8a
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 2
-https://a46.azplay.me/hls/streama210767/index.m3u8?cst=f4482504429b4f5844e2c6aa24c20123
+https://ecloud.welive.sbs:8089/hls/4vTLtWWosObV/index.m3u8?st=xWPjBWsI3rDfmaDJo_pg4Q&e=1694927464
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 3
+https://pl5.aliflailaaliflaila.com:999/hls/do40.m3u8?md5=g9t8W6AXiyRDOX-vsSfDlQ&expires=1694923684
+
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 4
+https://sb2.livemodo.click/G3LFrxCKyLlDra7LWFVemw/1694945339/31313
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 5
+https://sb2.livemodo.click/oBSAFUOl0B1X9MVs4W_H6w/1694945590/3131302e3133372e3234372e313833/ff59/playlist.m3u8
+
